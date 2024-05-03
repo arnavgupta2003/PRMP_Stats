@@ -19,8 +19,8 @@ This repository showcases the performance statistics of a custom runtime develop
 
 # Performance Analysis Data Table
 
-|                   | Energy                                                           | netJPI                                                        | SpeedUp                                                   |
-|-------------------|------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
+|                   | Energy          |Energy          |Energy         |Energy         | netJPI        | netJPI        | netJPI        | netJPI        | SpeedUp      | SpeedUp      | SpeedUp      | SpeedUp      |
+|-------------------|-----------------|----------------|---------------|---------------|---------------|---------------|---------------|---------------|--------------|--------------|--------------|--------------|
 |                   | ArraySum        | Iterative      | Fibonacci     | Qsort         | ArraySum      | Iterative     | Fibonacci     | Qsort         | ArraySum     | Iterative    | Fibonacci    | Qsort        |
 | Self Runtime      | 0.727026367     | 17.67781982    | 4.181396484   | 8.071838379   | 1.36715E-10   | 3.46166E-09   | 3.56012E-10   | 1.2652E-09    | 2.872729473  | 2.045752426  | 12.41238356  | 7.466778699  |
 | Original Runtime  | 15.39738        | 49.731125      | 22.12824      | 22.351275     | 4.82E-09      | 9.175E-09     | 1.02E-09      | 2.85E-09      | 3.052568991  | 2.029028894  | 12.94633874  | 8.538735159  |
