@@ -1,0 +1,220 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./iterative \x3bdone > iterative-10.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+578.073	1048512	13841
+=============================================================================
+===== Total Time in 616 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+582.016	1048527	16307
+=============================================================================
+===== Total Time in 613 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+578.353	1048517	15078
+=============================================================================
+===== Total Time in 609 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+580.941	1048512	15848
+=============================================================================
+===== Total Time in 612 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+578.704	1048512	14898
+=============================================================================
+===== Total Time in 610 msec =====
+===== Test PASSED in 0.0 msec =====
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./iterative \x3bdone > iterative-15.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+583.120	1048517	38512
+=============================================================================
+===== Total Time in 624 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+585.719	1048517	35818
+=============================================================================
+===== Total Time in 617 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+582.683	1048512	34153
+=============================================================================
+===== Total Time in 616 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+584.369	1048512	36342
+=============================================================================
+===== Total Time in 617 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+583.241	1048530	35934
+=============================================================================
+===== Total Time in 614 msec =====
+===== Test PASSED in 0.0 msec =====
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./iterative \x3bdone > iterative-20.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+593.861	1048522	66483
+=============================================================================
+===== Total Time in 634 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+596.234	1048512	58406
+=============================================================================
+===== Total Time in 631 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+593.529	1048522	63586
+=============================================================================
+===== Total Time in 626 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+591.809	1048517	75944
+=============================================================================
+===== Total Time in 625 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+592.815	1048512	65225
+=============================================================================
+===== Total Time in 626 msec =====
+===== Test PASSED in 0.0 msec =====
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=5 ./iterative \x3bdone > iterative-5.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 5
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+596.548	1048517	2961
+=============================================================================
+===== Total Time in 636 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 5
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+592.547	1048512	2924
+=============================================================================
+===== Total Time in 623 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 5
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+595.268	1048512	2951
+=============================================================================
+===== Total Time in 626 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 5
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+590.580	1048517	2945
+=============================================================================
+===== Total Time in 621 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 5
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+595.276	1048512	2886
+=============================================================================
+===== Total Time in 626 msec =====
+===== Test PASSED in 0.0 msec =====

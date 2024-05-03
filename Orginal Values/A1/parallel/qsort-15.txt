@@ -1,0 +1,55 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./qsort \x3bdone > qsort-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.665	4060	671
+=============================================================================
+===== Total Time in 408 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+162.269	4060	802
+=============================================================================
+===== Total Time in 409 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.586	4060	712
+=============================================================================
+===== Total Time in 409 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.957	4060	750
+=============================================================================
+===== Total Time in 407 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.501	4060	599
+=============================================================================
+===== Total Time in 409 msec =====
+===== Test PASSED in 0.0 msec =====

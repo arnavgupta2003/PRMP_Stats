@@ -1,0 +1,150 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./iterative \x3bdone > iterative-20.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+595.853	1048512	60068
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+WORKER - ID:10 Empty List
+WORKER - ID:11 Empty List
+WORKER - ID:12 Empty List
+WORKER - ID:13 Empty List
+WORKER - ID:14 Empty List
+WORKER - ID:15 Empty List
+WORKER - ID:16 Empty List
+WORKER - ID:17 Empty List
+WORKER - ID:18 Empty List
+WORKER - ID:19 Empty List
+===== Total Time in 637 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+597.221	1048512	63264
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+WORKER - ID:10 Empty List
+WORKER - ID:11 Empty List
+WORKER - ID:12 Empty List
+WORKER - ID:13 Empty List
+WORKER - ID:14 Empty List
+WORKER - ID:15 Empty List
+WORKER - ID:16 Empty List
+WORKER - ID:17 Empty List
+WORKER - ID:18 Empty List
+WORKER - ID:19 Empty List
+===== Total Time in 630 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+595.614	1048512	59403
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+WORKER - ID:10 Empty List
+WORKER - ID:11 Empty List
+WORKER - ID:12 Empty List
+WORKER - ID:13 Empty List
+WORKER - ID:14 Empty List
+WORKER - ID:15 Empty List
+WORKER - ID:16 Empty List
+WORKER - ID:17 Empty List
+WORKER - ID:18 Empty List
+WORKER - ID:19 Empty List
+===== Total Time in 630 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+596.520	1048512	58861
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+WORKER - ID:10 Empty List
+WORKER - ID:11 Empty List
+WORKER - ID:12 Empty List
+WORKER - ID:13 Empty List
+WORKER - ID:14 Empty List
+WORKER - ID:15 Empty List
+WORKER - ID:16 Empty List
+WORKER - ID:17 Empty List
+WORKER - ID:18 Empty List
+WORKER - ID:19 Empty List
+===== Total Time in 629 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+595.440	1048512	60561
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+WORKER - ID:10 Empty List
+WORKER - ID:11 Empty List
+WORKER - ID:12 Empty List
+WORKER - ID:13 Empty List
+WORKER - ID:14 Empty List
+WORKER - ID:15 Empty List
+WORKER - ID:16 Empty List
+WORKER - ID:17 Empty List
+WORKER - ID:18 Empty List
+WORKER - ID:19 Empty List
+===== Total Time in 628 msec =====
+===== Test PASSED in 0.0 msec =====

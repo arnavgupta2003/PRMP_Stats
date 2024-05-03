@@ -1,0 +1,50 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./array_sum \x3bdone > array_sum-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.527	16383	273
+=============================================================================
+===== Total Time in 89 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.525	16383	394
+=============================================================================
+===== Total Time in 86 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.473	16383	445
+=============================================================================
+===== Total Time in 82 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.457	16383	292
+=============================================================================
+===== Total Time in 87 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.414	16383	659
+=============================================================================
+===== Total Time in 81 msec =====
+===== Test PASSED in 0.0 msec =====

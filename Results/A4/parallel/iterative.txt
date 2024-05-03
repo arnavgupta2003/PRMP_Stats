@@ -1,0 +1,55 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./iterative \x3bdone > iterative.txt ;a818c20b-7a1c-4507-a2f8-4249578103f8---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Deamon Profiler is enabled
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+610.831		1048512		55865		9.33801269531250000000	0.00000000186750275581	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4189 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Deamon Profiler is enabled
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+616.669		1048512		57474		19.12457275390625000000	0.00000000433422295657	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4092 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Deamon Profiler is enabled
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+622.845		1048512		58169		20.48059082031250000000	0.00000000397762119860	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4152 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Deamon Profiler is enabled
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+626.681		1048512		56103		19.56188964843750000000	0.00000000350269576285	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4179 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Deamon Profiler is enabled
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+618.329		1048512		59018		19.88403320312500000000	0.00000000362628108445	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4193 msec =====
+===== Test PASSED in 0.0 msec =====

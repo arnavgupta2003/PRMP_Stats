@@ -1,0 +1,50 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./iterative \x3bdone > iterative-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1462.460	0	0
+=============================================================================
+===== Total Time in 1501 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1434.182	0	0
+=============================================================================
+===== Total Time in 1465 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1436.164	0	0
+=============================================================================
+===== Total Time in 1466 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1439.374	0	0
+=============================================================================
+===== Total Time in 1470 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1418.309	0	0
+=============================================================================
+===== Total Time in 1448 msec =====
+===== Test PASSED in 0.0 msec =====

@@ -1,0 +1,55 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./fib \x3bdone > fib-20.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+131.611	196417	10068
+=============================================================================
+===== Total Time in 132 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+128.637	196417	5637
+=============================================================================
+===== Total Time in 129 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+128.872	196417	4235
+=============================================================================
+===== Total Time in 129 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+123.265	196417	8956
+=============================================================================
+===== Total Time in 124 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+128.833	196417	5477
+=============================================================================
+===== Total Time in 129 msec =====
+===== Test PASSED in 0.0 msec =====

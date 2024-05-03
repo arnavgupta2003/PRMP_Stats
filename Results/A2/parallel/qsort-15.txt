@@ -1,0 +1,65 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./qsort \x3bdone > qsort-15.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+162.095	4060	831
+=============================================================================
+===== Total Time in 410 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.711	4060	712
+=============================================================================
+===== Total Time in 407 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.855	4060	729
+=============================================================================
+===== Total Time in 407 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.905	4060	681
+=============================================================================
+===== Total Time in 407 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+161.315	4060	868
+=============================================================================
+===== Total Time in 406 msec =====
+===== Test PASSED in 0.0 msec =====

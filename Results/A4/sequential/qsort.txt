@@ -1,0 +1,16 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./qsort \x3bdone > qsort.txt;a818c20b-7a1c-4507-a2f8-4249578103f8
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1368.08 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1358.11 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1380.22 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1359.57 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1358.82 ms
+QuickSort passed

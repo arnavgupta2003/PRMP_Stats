@@ -1,0 +1,51 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./array_sum \x3bdone > array_sum.txt;a818c20b-7a1c-4507-a2f8-4249578103f8
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+14.824	16383	2063	15.7227	0.0000000048
+=============================================================================
+===== Total Time in 2078 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+15.134	16383	2073	11.6368	0.0000000041
+=============================================================================
+===== Total Time in 1990 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+14.867	16383	1393	17.1007	0.0000000052
+=============================================================================
+===== Total Time in 2104 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+15.196	16383	1263	14.9160	0.0000000048
+=============================================================================
+===== Total Time in 2008 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+14.989	16383	2440	17.6107	0.0000000052
+=============================================================================
+===== Total Time in 2062 msec =====
+===== Test PASSED in 0.0 msec =====

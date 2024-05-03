@@ -1,0 +1,60 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./fib \x3bdone > fib-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1706.390	0	0
+=============================================================================
+===== Total Time in 1707 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1697.138	0	0
+=============================================================================
+===== Total Time in 1697 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1697.647	0	0
+=============================================================================
+===== Total Time in 1698 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1701.551	0	0
+=============================================================================
+===== Total Time in 1702 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 15
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1695.378	0	0
+=============================================================================
+===== Total Time in 1696 msec =====
+===== Test PASSED in 0.0 msec =====

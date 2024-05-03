@@ -1,0 +1,10 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./array_sum \x3bdone > array_sum-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(ArraySum kernel) = 45.2453 ms
+Test passed
+Time(ArraySum kernel) = 48.021 ms
+Test passed
+Time(ArraySum kernel) = 47.4069 ms
+Test passed
+Time(ArraySum kernel) = 47.2553 ms
+Test passed
+Time(ArraySum kernel) = 48.1682 ms
+Test passed

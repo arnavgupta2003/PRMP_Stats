@@ -1,0 +1,56 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./qsort \x3bdone > qsort.txt;a818c20b-7a1c-4507-a2f8-4249578103f8
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+161.918	4060	1159	22.6584	0.0000000029
+=============================================================================
+===== Total Time in 2385 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+160.536	4060	1225	21.7921	0.0000000028
+=============================================================================
+===== Total Time in 2367 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+158.944	4060	1107	23.2557	0.0000000029
+=============================================================================
+===== Total Time in 2333 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+153.754	4060	1178	22.1774	0.0000000029
+=============================================================================
+===== Total Time in 2333 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI
+160.727	4060	1154	22.1799	0.0000000028
+=============================================================================
+===== Total Time in 2363 msec =====
+===== Test PASSED in 0.0 msec =====

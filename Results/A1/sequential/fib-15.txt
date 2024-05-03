@@ -1,0 +1,15 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./fib \x3bdone > fib-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Starting Fib(45)..
+Time(Fib kernel) = 1628.06 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1630.5 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1624.1 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1621.94 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1623.01 ms
+Fib(45) = 1134903170

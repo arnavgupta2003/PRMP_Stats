@@ -1,0 +1,65 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./fib \x3bdone > fib-10.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+195.672	196422	1270
+=============================================================================
+===== Total Time in 196 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+195.035	196417	511
+=============================================================================
+===== Total Time in 195 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+195.197	196417	691
+=============================================================================
+===== Total Time in 195 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+195.115	196417	604
+=============================================================================
+===== Total Time in 195 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+>>> ATC mode Disabled 
+>>> LBS Mode Enabled 
+----------------------------------------
+Starting Fib(45)..
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+195.443	196422	1595
+=============================================================================
+===== Total Time in 196 msec =====
+===== Test PASSED in 0.0 msec =====

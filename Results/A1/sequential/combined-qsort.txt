@@ -1,0 +1,60 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./qsort \x3bdone > qsort-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1371.1 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1356.4 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1373.01 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1359.62 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1371.54 ms
+QuickSort passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./qsort \x3bdone > qsort-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1354.49 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1373.07 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1350.28 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1359.89 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1365.45 ms
+QuickSort passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./qsort \x3bdone > qsort-20.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1354.84 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1356.76 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1359.48 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1348.76 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1348.97 ms
+QuickSort passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=5 ./qsort \x3bdone > qsort-5.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1366.14 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1359.03 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1352.11 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1370.86 ms
+QuickSort passed
+Sorting 10485760 size array with threshold of 10485
+Time(Qsort kernel) = 1352.67 ms
+QuickSort passed

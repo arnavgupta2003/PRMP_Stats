@@ -1,0 +1,40 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./array_sum \x3bdone > array_sum-10.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76bTime(ArraySum kernel) = 47.4922 ms
+Test passed
+Time(ArraySum kernel) = 44.1192 ms
+Test passed
+Time(ArraySum kernel) = 44.6509 ms
+Test passed
+Time(ArraySum kernel) = 44.4276 ms
+Test passed
+Time(ArraySum kernel) = 45.0168 ms
+Test passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./array_sum \x3bdone > array_sum-15.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76bTime(ArraySum kernel) = 45.8625 ms
+Test passed
+Time(ArraySum kernel) = 44.1995 ms
+Test passed
+Time(ArraySum kernel) = 45.131 ms
+Test passed
+Time(ArraySum kernel) = 44.5689 ms
+Test passed
+Time(ArraySum kernel) = 44.5567 ms
+Test passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./array_sum \x3bdone > array_sum-20.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76bTime(ArraySum kernel) = 44.8752 ms
+Test passed
+Time(ArraySum kernel) = 44.7802 ms
+Test passed
+Time(ArraySum kernel) = 44.7482 ms
+Test passed
+Time(ArraySum kernel) = 44.6635 ms
+Test passed
+Time(ArraySum kernel) = 44.8737 ms
+Test passed
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=5 ./array_sum \x3bdone > array_sum-5.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76bTime(ArraySum kernel) = 44.9691 ms
+Test passed
+Time(ArraySum kernel) = 44.1913 ms
+Test passed
+Time(ArraySum kernel) = 45.0567 ms
+Test passed
+Time(ArraySum kernel) = 44.1914 ms
+Test passed
+Time(ArraySum kernel) = 44.7589 ms
+Test passed

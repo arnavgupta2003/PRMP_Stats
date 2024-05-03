@@ -1,0 +1,5 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./iterative \x3bdone > iterative-20.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(IterativeAveraging kernel) = 1211.33 ms
+Time(IterativeAveraging kernel) = 1206.02 ms
+Time(IterativeAveraging kernel) = 1201.8 ms
+Time(IterativeAveraging kernel) = 1209.33 ms
+Time(IterativeAveraging kernel) = 1194.28 ms

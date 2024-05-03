@@ -1,0 +1,60 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./qsort \x3bdone > qsort-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1371.474	0	0
+=============================================================================
+===== Total Time in 1591 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1341.329	0	0
+=============================================================================
+===== Total Time in 1557 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1344.748	0	0
+=============================================================================
+===== Total Time in 1603 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1355.344	0	0
+=============================================================================
+===== Total Time in 1570 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+QuickSort passed
+---------DEB: In Finalize-----------
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+1347.504	0	0
+=============================================================================
+===== Total Time in 1563 msec =====
+===== Test PASSED in 0.0 msec =====

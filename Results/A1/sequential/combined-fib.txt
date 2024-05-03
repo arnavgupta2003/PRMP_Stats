@@ -1,0 +1,60 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./fib \x3bdone > fib-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Starting Fib(45)..
+Time(Fib kernel) = 1632.59 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1627.62 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1627.4 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1633.57 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1629.39 ms
+Fib(45) = 1134903170
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./fib \x3bdone > fib-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Starting Fib(45)..
+Time(Fib kernel) = 1628.06 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1630.5 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1624.1 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1621.94 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1623.01 ms
+Fib(45) = 1134903170
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./fib \x3bdone > fib-20.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Starting Fib(45)..
+Time(Fib kernel) = 1631.7 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1628.48 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1624.3 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1634.38 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1626.44 ms
+Fib(45) = 1134903170
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=5 ./fib \x3bdone > fib-5.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Starting Fib(45)..
+Time(Fib kernel) = 1628.7 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1627.54 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1634.49 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1628.77 ms
+Fib(45) = 1134903170
+Starting Fib(45)..
+Time(Fib kernel) = 1622.76 ms
+Fib(45) = 1134903170

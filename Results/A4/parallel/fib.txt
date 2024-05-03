@@ -1,0 +1,65 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./fib \x3bdone > fib.txt ;a818c20b-7a1c-4507-a2f8-4249578103f8---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Deamon Profiler is enabled
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+130.655		196417		7116		3.77239990234375000000	0.00000000032455364430	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3681 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Deamon Profiler is enabled
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+130.111		196417		9787		3.71661376953125000000	0.00000000031517740177	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3794 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Deamon Profiler is enabled
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+130.386		196417		8159		3.78771972656250000000	0.00000000031368608454	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3639 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Deamon Profiler is enabled
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+142.905		196417		7380		5.89465332031250000000	0.00000000050516460667	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3690 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Starting Fib(45)..
+Deamon Profiler is enabled
+Fib(45) = 1134903170
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+129.403		196417		4371		3.73559570312500000000	0.00000000032148061515	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3669 msec =====
+===== Test PASSED in 0.0 msec =====

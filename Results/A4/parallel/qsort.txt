@@ -1,0 +1,65 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./qsort \x3bdone > qsort.txt ;a818c20b-7a1c-4507-a2f8-4249578103f8---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+Deamon Profiler is enabled
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+192.314		4060		1203		8.72021484375000000000	0.00000000136920802329	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 4137 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+Deamon Profiler is enabled
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+181.519		4060		1196		7.57269287109375000000	0.00000000123291405092	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3889 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+Deamon Profiler is enabled
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+188.277		4060		1059		7.77447509765625000000	0.00000000122987572745	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3946 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+Deamon Profiler is enabled
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+176.023		4060		1090		8.11407470703125000000	0.00000000116415421620	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3874 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 20
+----------------------------------------
+Sorting 10485760 size array with threshold of 10485
+Deamon Profiler is enabled
+QuickSort passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals	Energy(Joules)	netJPI		Optimal Threads
+175.889		4060		1204		8.17773437500000000000	0.00000000132986813282	13
+=============================================================================
+Awakes 0, Sleeps 7, DOPC 1
+===== Total Time in 3911 msec =====
+===== Test PASSED in 0.0 msec =====

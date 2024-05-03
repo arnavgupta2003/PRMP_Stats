@@ -1,0 +1,105 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./array_sum \x3bdone > array_sum-10.txt;178aef5f-7853-453e-aaa9-25fcdeb4d76b---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.485	16383	692
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+===== Total Time in 92 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.424	16383	389
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+===== Total Time in 81 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.455	16383	258
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+===== Total Time in 83 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.434	16383	667
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+===== Total Time in 82 msec =====
+===== Test PASSED in 0.0 msec =====
+---------HCLIB_RUNTIME_INFO-----------
+>>> HCLIB_WORKERS	= 10
+----------------------------------------
+Test passed
+============================ Tabulate Statistics ============================
+time.kernel	totalAsync	totalSteals
+14.539	16383	339
+=============================================================================
+Workers Stats SORTED:
+WORKER - ID:0 Empty List
+WORKER - ID:1 Empty List
+WORKER - ID:2 Empty List
+WORKER - ID:3 Empty List
+WORKER - ID:4 Empty List
+WORKER - ID:5 Empty List
+WORKER - ID:6 Empty List
+WORKER - ID:7 Empty List
+WORKER - ID:8 Empty List
+WORKER - ID:9 Empty List
+===== Total Time in 83 msec =====
+===== Test PASSED in 0.0 msec =====

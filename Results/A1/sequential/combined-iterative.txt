@@ -1,0 +1,20 @@
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=10 ./iterative \x3bdone > iterative-10.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(IterativeAveraging kernel) = 1195.73 ms
+Time(IterativeAveraging kernel) = 1203.21 ms
+Time(IterativeAveraging kernel) = 1207.85 ms
+Time(IterativeAveraging kernel) = 1200.8 ms
+Time(IterativeAveraging kernel) = 1256.14 ms
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=15 ./iterative \x3bdone > iterative-15.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(IterativeAveraging kernel) = 1262.38 ms
+Time(IterativeAveraging kernel) = 1200.92 ms
+Time(IterativeAveraging kernel) = 1195.86 ms
+Time(IterativeAveraging kernel) = 1214.24 ms
+Time(IterativeAveraging kernel) = 1206.49 ms
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=20 ./iterative \x3bdone > iterative-20.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(IterativeAveraging kernel) = 1248.13 ms
+Time(IterativeAveraging kernel) = 1207.7 ms
+Time(IterativeAveraging kernel) = 1199.9 ms
+Time(IterativeAveraging kernel) = 1202.13 ms
+Time(IterativeAveraging kernel) = 1190.77 ms
+]633;C]633;E;for i in {1..5}\x3bdo HCLIB_WORKERS=5 ./iterative \x3bdone > iterative-5.txt;f98246c1-ab02-4b93-bbeb-de54465db1c5Time(IterativeAveraging kernel) = 1240.27 ms
+Time(IterativeAveraging kernel) = 1216.05 ms
+Time(IterativeAveraging kernel) = 1194.78 ms
+Time(IterativeAveraging kernel) = 1208.96 ms
+Time(IterativeAveraging kernel) = 1256.85 ms
