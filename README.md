@@ -10,9 +10,9 @@ The repository includes both sequential and parallel versions of benchmarks for 
 ### Quick Navigation Links
 
 1. **Deadline-1**: [Deadline 1](Reports/A1)
-2. **Deadline-2**: 
-3. **Deadline-3**: 
-4. **Deadline-4**: 
+2. **Deadline-2**: [Deadline 2](Reports/A2)
+3. **Deadline-3**: [Deadline 3](Reports/A3)
+4. **Deadline-4**: [Deadline 4](Reports/A4)
 
 ### Deadlines
 1. **Deadline-1**: High Performance async-finish Programming Model using Argobots
