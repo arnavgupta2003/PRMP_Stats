@@ -1,13 +1,30 @@
 # Introduction
 
-Welcome to the test bed for evaluating performance benchmarks and experiments. In this repository, you'll find the necessary resources for conducting experiments as outlined in the provided PDF.
+Welcome to the performance analysis repository! Here, you'll find a collection of graphs and plots showcasing the statistical insights derived from our experimental evaluations. These visual representations offer a comprehensive overview of the benchmarks' performance metrics, enabling a deeper understanding of the efficiency and scalability of our runtime environment.
 
 ## Benchmarks and Experiments
 
 ### Overview
 The repository includes both sequential and parallel versions of benchmarks for experimental evaluation. These benchmarks are to be used according to the deadlines specified below.
 
-### Deadlines and Experiments
+### Deadlines
+1. **Deadline-1**: High Performance async-finish Programming Model using Argobots
+2. **Deadline-2**: Optimizing the Tasking Overheads
+3. **Deadline-3**: Improving the Locality in Parallel Runtime
+4. **Deadline-4**: Energy Efficient Parallel Runtime
+
+### Deadline Implementations
+1. **Deadline-1**: You will have to implement a work-stealing runtime using Argobots and then use it as a backend for the HClib library. Your implementation of HCArgoLib would support the async-finish programming model supported by HClib by transforming the HClib async tasks into ULT and load-balancing it using a custom work-stealing implementation.
+
+2. **Deadline-2**: Implement a runtime adaptive work-stealing scheduler and An adaptive cut-off algorithm for task parallelism.
+
+3. **Deadline-3**: In this deadline, you have to further optimize your parallel runtime by improving its support for locality over modern multicore processors.
+
+4. **Deadline-4**: This deadline is devoted to achieving energy efficiency in parallel execution over a multicore processors using a runtime-based approach. You can achieve energy efficiency either by using dynamic concurrency throttling over the multicore processors, or by using power-saving knobs such as DVFS, UFS, and power capping. In this project deadline you would have to use hardware
+performance counters.
+
+
+### Deadline Experiments
 1. **Deadline-1**: Evaluate speedup over sequential for worker counts of 5, 10, 15, and 20. Compare with default hclib-light.
 2. **Deadline-2**: Assess speedup over sequential (with/without deadline implementation), total tasks created, and steal to task ratio for worker counts of 5, 10, 15, and 20.
 3. **Deadline-3**: Measure speedup over sequential (with/without deadline implementation) for worker counts of 20 in NUMA and both 10 and 20 in trace/replay mode.
