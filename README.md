@@ -7,6 +7,13 @@ Welcome to the performance analysis repository! Here, you'll find a collection o
 ### Overview
 The repository includes both sequential and parallel versions of benchmarks for experimental evaluation. These benchmarks are to be used according to the deadlines specified below.
 
+### Quick Navigation Links
+
+1. **Deadline-1**: [Deadline 1](Reports/A1)
+2. **Deadline-2**: 
+3. **Deadline-3**: 
+4. **Deadline-4**: 
+
 ### Deadlines
 1. **Deadline-1**: High Performance async-finish Programming Model using Argobots
 2. **Deadline-2**: Optimizing the Tasking Overheads
